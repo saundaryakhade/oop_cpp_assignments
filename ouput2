@@ -1,1 +1,18 @@
+=== Student Marks Management === 
+Enter the number of students: 3 
+Enter student name: Rahul 
+Enter roll number: 101 
+Enter marks of student 1: 80 
+Enter marks of student 2: 90 
+Enter marks of student 3: 70 
+  
+=== Student Report === Name: Rahul 
+Roll Number: 101 
+Student 1 marks: 80 
+Student 2 marks: 90 
+Student 3 marks: 70 
+Total marks: 240 
+Average marks: 80 
+  
+Dynamic memory released successfully. 
 
