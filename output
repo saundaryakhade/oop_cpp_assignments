@@ -1,0 +1,9 @@
+=== Student Bank Account === Initial balance: Rs. 5000 
+Address of balance: [memory address] 
+Value using pointer: Rs. 5000 
+  
+After scholarship using pointer: Rs. 6000 
+After scholarship using reference: Rs. 6500 
+  
+Final balance: Rs. 6500 
+ 
